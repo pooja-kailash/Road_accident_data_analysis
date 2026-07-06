@@ -1,3 +1,9 @@
+Design a Road Accident Analysis Dashboard using Pivot Tables and
+Slicers in Excel.
+
+
+
+
 Accident ID,Date,Location,Accident Type,Vehicle Type,Weather Condition,Road Condition,Severity,Cause,Casualties
 AID0001,2024-01-01,Hyderabad,Overturn,Auto-Rickshaw,Clear,Dry,Moderate,Overtaking,0
 AID0002,2024-03-29,Mumbai,Overturn,Auto-Rickshaw,Foggy,Damaged,Moderate,Distracted Driving,0
