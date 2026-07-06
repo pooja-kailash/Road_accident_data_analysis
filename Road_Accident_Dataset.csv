@@ -99,3 +99,6 @@ AID0097,2024-04-21,Delhi,Object Hit,Truck,Windy,Damaged,Fatal,Drunk Driving,3
 AID0098,2024-04-08,Delhi,Pedestrian Hit,Motorcycle,Windy,Wet,Severe,Speeding,0
 AID0099,2024-06-21,Kolkata,Overturn,Auto-Rickshaw,Clear,Wet,Minor,Drunk Driving,4
 AID0100,2024-01-26,Ahmedabad,Pedestrian Hit,Motorcycle,Windy,Damaged,Severe,Overtaking,2
+
+Design a Road Accident Analysis Dashboard using Pivot Tables and
+Slicers in Excel.
